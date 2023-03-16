@@ -1,0 +1,32 @@
+{
+    "products": [
+        {
+            "image": "1.jpeg",
+            "name": "T-shirt 1",
+            "price": 100,
+            "article": "t1",
+            "available": true
+        },
+        {
+            "image": "2.jpeg",
+            "name": "T-shirt 2",
+            "price": 150,
+            "article": "t2",
+            "available": true
+        },
+        {
+            "image": "3.jpeg",
+            "name": "T-shirt 3",
+            "price": 200,
+            "article": "t3",
+            "available": true
+        },
+        {
+            "image": "4.jpeg",
+            "name": "T-shirt 4",
+            "price": 300,
+            "article": "t4",
+            "available": false
+        }
+    ]
+}
